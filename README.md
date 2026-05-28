@@ -13,7 +13,6 @@ We are grateful to readers who point out errors or ambiguities.
 ---
 Place Holders
 
-## First Printing Errata
 
 ### Page XX
 X paragraph:
@@ -24,19 +23,6 @@ Incorrect:
 Correct:
 > "..."
 
----
-
-### Page XX
-Figure caption X:
-
-Replace:
-> "..."
-
-With:
-> "..."
-
----
-
 ## Clarifications and Updates
 
 ### Chapter X
@@ -45,5 +31,7 @@ A newer measurement of X ...
 ---
 
 ## Contact
+Readers who notice possible errors, ambiguities, or omissions are welcome to submit them through the repository’s Issues page:
+https://github.com/ariess1/unruly-universe-errata/issues
 
-Readers may submit corrections through GitHub Issues or by email.
+We will review submissions and incorporate confirmed corrections into future updates of the errata page.
